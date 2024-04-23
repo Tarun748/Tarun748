@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tarun748
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning btech cse
+- 🌱 I’m currently pursuing btech cse with specialization in AIML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me via email (taruntj2003@gmail.com)
 
 <!---
 Tarun748/Tarun748 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
